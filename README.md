@@ -9,4 +9,4 @@ Im a driven individual who has worked all sorts of manual labor jobs from the oi
 * Hello World: Android app
 
 ## Links
- * [LinkedIn]({https://www.linkedin.com/in/victor-perez-727b49131/})
+ * [LinkedIn]({https://www.linkedin.com/in/victor-perez-727b49131})
